@@ -8,7 +8,7 @@ IQR (Interquartile Range)
 
 
 Kaushal 
-
+finding outliers
 
 Ami
 
