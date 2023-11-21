@@ -1,5 +1,8 @@
 Simran
 feature selection method
+Z-Score
+IQR (Interquartile Range)
+
 
 
 
